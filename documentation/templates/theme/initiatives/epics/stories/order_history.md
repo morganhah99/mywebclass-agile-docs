@@ -9,7 +9,7 @@ The order history page can be accessed from the customer account dashboard.
 The order history page is only accessible to authenticated customers.
 
 
-# List Tasks related to this story
+# List [Tasks](tasks/task_template.md) related to this story
 1. Identify where in the customer account dashboard the order history page will be located
 2. Develop a database schema to store order information, including date, order number, total cost, items purchased, quantities, prices, and discounts applied
 3. Develop backend code to retrieve and display order history information for authenticated customers

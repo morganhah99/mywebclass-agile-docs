@@ -13,7 +13,7 @@ Priority: Medium
 
 Status: Not Started
 
-Notes: [Include]
+Notes: This task is necessary to determine where to place the order history page so that it is easily accessible and visible to customers.
 
 # Develop backend code for retrieving and displaying order history information
 
@@ -29,7 +29,7 @@ Priority: High
 
 Status: Not started
 
-Notes: [Include]
+Notes:  This task is necessary to ensure that order history data can be stored in a structured and organized manner, allowing for easy retrieval and display.
 
 # Create frontend page templates for displaying order history information
 
@@ -45,7 +45,7 @@ Priority: High
 
 Status: Not started
 
-Notes: [Include]
+Notes: This task is necessary to enable customers to view their order history and to ensure that the data is displayed accurately and securely.
 
 # Add clickable links to each past order in the order history list
 
@@ -61,7 +61,7 @@ Priority: Medium
 
 Status: Not started
 
-Notes: [Include]
+Notes: This task is necessary to provide a visually appealing and user-friendly interface for customers to view their order history.
 
 # Test the order history page for display and functionality
 
@@ -77,7 +77,7 @@ Priority: High
 
 Status: Not started
 
-Notes: [Include]
+Notes: This task is necessary to enable customers to easily navigate to detailed information about each past order.
 
 # Deploy the order history page to the production environment
 
@@ -91,7 +91,7 @@ Assigned To: Morgan Hah
 
 Status: Not started
 
-Notes: [Include]
+Notes: This task is necessary to ensure that the order history page works as intended and is accessible on a variety of devices and platforms.
 
 
 

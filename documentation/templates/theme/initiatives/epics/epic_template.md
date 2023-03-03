@@ -71,6 +71,5 @@ Priority:
 
 High
 
-# List stories related to this theme
+# List story related to this theme
 1. [Store owner complying with analytics and privacy regulations](stories/regulation_compliance.md)
-2. [Visually impaired Customer](stories/impaired_user.md)

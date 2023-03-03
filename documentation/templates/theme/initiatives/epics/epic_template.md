@@ -33,7 +33,8 @@ Priority:
 
 High
 # List stories related to this theme
-1. [Customer checking order history](stories/story_template.md)
+1. [Customer checking order history](stories/order_history.md)
+2. [Visually impaired Customer](stories/impaired_user.md)
 
 <h1>Analytics and Privacy Compliance for an Ecommerce Clothing Site</h1>
 

@@ -63,3 +63,4 @@ Team:
 
 # List epics related to this theme
 1. [Develop a responsive and accessible website](epics/epic_template.md)
+2. [Analytics and Privacy Compliance for an Ecommerce Clothing Site](epics/epic_template.md)

@@ -2,7 +2,7 @@
 
 Description: 
 
-The initiative aims to create an e-commerce website that provides a user-friendly and organized layout of the pages, making it easier for customers to browse through the catalog of products and find what they want to buy. By following Agile principles and best practices in UX design, we can ensure that the browsing experience is responsive, intuitive and meets the needs of our customers.
+The initiative aims to create an e-commerce website called ftpshop.co that provides a user-friendly and organized layout of the pages, making it easier for customers to browse through the catalog of products and find what they want to buy. By following Agile principles and best practices in UX design, we can ensure that the browsing experience is responsive, intuitive and meets the needs of our customers.
 
 Goals:
   * To increase customer satisfaction and loyalty

@@ -27,6 +27,8 @@ Estimated Effort:
 
 Business Value: 
  * A responsive and accessible website will help to attract and retain customers, increase sales revenue, and improve the brand reputation of ftpshop.
+
+
 Priority:
 
 High

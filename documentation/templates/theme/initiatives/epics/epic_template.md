@@ -1,8 +1,12 @@
-"Title of the Epic"
+<h1>Develop a responsive and accessible website</h1>
 
-Description: [A brief description of the epic]
+Description: 
 
-Goals: [List the high-level goals or objectives of the epic]
+Develop a responsive and accessible website design that meets modern design and accessibility standards.
+
+Goals: 
+  * Create a visually appealing and professional website design that represents the brand of ftpshop.
+  * Ensure that the website is responsive and accessible by all users.
 
 User Stories: [List the user stories that will help achieve the goals of the epic]
 

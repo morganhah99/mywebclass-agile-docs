@@ -1,4 +1,4 @@
-E-Commerce Site
+<h1 style="color: white;">E-Commerce Site</h1>
 
 Description: [A brief description of the initiative]
 

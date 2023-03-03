@@ -62,4 +62,4 @@ Team:
 * Quality Assurance Tester: Responsible for testing the website to ensure its functionality and quality.
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic 1](epics/epic_template.md)

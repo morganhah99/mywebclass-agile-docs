@@ -1,16 +1,99 @@
 # Tasks 
 # Set up order history for customers
 
-User Story: [Reference the user story that this task supports]
+User Story: As a customer, I want to view my order history so that I can track my past purchases.
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: Determine the most appropriate location in the customer account dashboard to add a link to the order history page. The link should be clearly labeled and easily accessible to authenticated customers. Acceptance criteria include that the link is prominently displayed, easily clickable, and leads to the correct page.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate: 1 hour
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: Morgan Hah
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: Medium
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status: Not Started
 
 Notes: [Include]
+
+# Develop backend code for retrieving and displaying order history information
+
+User Story: As a customer, I want to view my order history so that I can track my past purchases.
+
+Description: Write backend code that can retrieve order information from the database and display it on the order history page. Acceptance criteria include that the code is efficient, secure, and accurately retrieves all relevant information for authenticated customers.
+
+Effort Estimate: 10 hours
+
+Assigned To: Morgan Hah
+
+Priority: High
+
+Status: Not started
+
+Notes: [Include]
+
+# Create frontend page templates for displaying order history information
+
+User Story: As a customer, I want to view my order history so that I can track my past purchases.
+
+Description: Develop frontend page templates that can display the retrieved order history information in an organized and visually appealing way. Acceptance criteria include that the templates are responsive, accessible, and accurately display all relevant information.
+
+Effort Estimate: 8 hours
+
+Assigned To: Morgan Hah
+
+Priority: High
+
+Status: Not started
+
+Notes: [Include]
+
+# Add clickable links to each past order in the order history list
+
+User Story: As a customer, I want to view my order history so that I can track my past purchases.
+
+Description: Add clickable links to each past order displayed on the order history page, so that customers can easily access detailed information about each order. Acceptance criteria include that the links are prominently displayed, easily clickable, and lead to the correct page for each order.
+
+Effort Estimate: 3 hours
+
+Assigned To: Morgan Hah
+
+Priority: Medium
+
+Status: Not started
+
+Notes: [Include]
+
+# Test the order history page for display and functionality
+
+User Story: As a customer, I want to view my order history so that I can track my past purchases.
+
+Description: Test the order history page on various devices and browsers to ensure that it is properly displayed and all functionality is working as intended. Acceptance criteria include that the page is tested on a variety of devices and browsers, and that all features are fully functional and working correctly.
+
+Effort Estimate: 4 hours
+
+Assigned To: Morgan Hah
+
+Priority: High
+
+Status: Not started
+
+Notes: [Include]
+
+# Deploy the order history page to the production environment
+
+User Story: As a customer, I want to view my order history so that I can track my past purchases.
+
+Description: Deploy the completed order history page to the production environment so that it is accessible to all authenticated customers. Acceptance criteria include that the page is deployed without errors and is fully functional for all users.
+
+Effort Estimate: 1 hour
+
+Assigned To: Morgan Hah
+
+Status: Not started
+
+Notes: [Include]
+
+
+
+
+

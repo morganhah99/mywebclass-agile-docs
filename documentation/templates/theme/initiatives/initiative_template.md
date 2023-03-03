@@ -1,4 +1,4 @@
-"Title of the Initiative"
+E-Commerce Site
 
 Description: [A brief description of the initiative]
 

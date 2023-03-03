@@ -32,6 +32,8 @@ Business Value:
 Priority:
 
 High
+# List stories related to this theme
+1. [Customer checking order history](stories/story_template.md)
 
 <h1>Analytics and Privacy Compliance for an Ecommerce Clothing Site</h1>
 
@@ -67,5 +69,4 @@ Business Value:
 Priority:
 
 High
-# List stories related to this theme
-1. [Customer checking order history](stories/story_template.md)
+

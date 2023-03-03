@@ -3,4 +3,4 @@
 
 
 # List initiatives related to this theme
-1. [E-Commerce Site](documentation/templates/theme/initiatives/e-commerce_site.md)
+1. [E-Commerce Site](initiatives/initiative_template.md)

@@ -10,4 +10,12 @@ The order history page is only accessible to authenticated customers.
 
 
 # List Tasks related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. Identify where in the customer account dashboard the order history page will be located
+2. Develop a database schema to store order information, including date, order number, total cost, items purchased, quantities, prices, and discounts applied
+3. Develop backend code to retrieve and display order history information for authenticated customers
+4. Create frontend page templates for displaying order history information
+5. Add clickable links to each past order in the order history list
+6. Test the order history page on various devices and browsers to ensure proper display and functionality
+7. Deploy the order history page to the production environment.
+
+

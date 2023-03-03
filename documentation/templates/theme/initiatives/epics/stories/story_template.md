@@ -9,5 +9,5 @@ The order history page can be accessed from the customer account dashboard.
 The order history page is only accessible to authenticated customers.
 
 
-# List Stories related to this theme
+# List Tasks related to this theme
 1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)

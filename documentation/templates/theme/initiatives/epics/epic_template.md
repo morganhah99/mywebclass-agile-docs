@@ -1,8 +1,6 @@
 <h1>Develop a responsive and accessible website</h1>
 
-Description: 
-
-Develop a responsive and accessible website design that meets modern design and accessibility standards.
+Description: Develop a responsive and accessible website design that meets modern design and accessibility standards.
 
 Goals: 
   * Create a visually appealing and professional website design that represents the brand of ftpshop.
